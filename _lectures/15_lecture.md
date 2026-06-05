@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-11-16T10:,Funzioni"
+date: 2026-11-16T10:30:00:,Funzioni"
 title: nan
 lecture_type: Esercitazione
 thumbnail: /static_files/presentations/lec.jpg
