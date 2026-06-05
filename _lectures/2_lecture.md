@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2025-10-01T10:30:00
+date: 2026-09-28T10:30:00
 title: Ricerca
 lecture_type: Lezione
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_calendar: false
 links:
-- url: https://github.com/Informatica-per-le-biotecnologie-UniPI/web25/blob/teaching/algoritmica/3.pdf
+- url: https://github.com/Informatica-per-le-biotecnologie-UniPI/web26/blob/teaching/algoritmica/3.pdf
   name: slides
-- url: https://colab.research.google.com/github/Informatica-per-le-biotecnologie-UniPI/web25/blob/teaching/algoritmica/search.ipynb
+- url: https://colab.research.google.com/github/Informatica-per-le-biotecnologie-UniPI/web26/blob/teaching/algoritmica/search.ipynb
   name: notebook
 hide_from_announcments: true
 ---
