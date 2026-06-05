@@ -1,8 +1,0 @@
----
-type: raw_event
-date: 2026-03-26T12:30:00
-name: "April"
-description: "Date progetto appello aprile: 31/3, ore 14:00: pubblicazione testo. 7/4, ore 14:00: consegna."
-hide_from_announcments: false
-hide_from_calendar: true
----

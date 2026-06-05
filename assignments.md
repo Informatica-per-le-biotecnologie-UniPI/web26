@@ -6,6 +6,8 @@ permalink: /esercitazioni/
 
 Le esercitazioni accompagnano passo passo l'apprendimento della programmazione.
 È **fortemente consigliato** lavorarci durante le esercitazioni in aula, da soli o con il proprio gruppo di studio, e sfruttare ricevimenti in caso di dubbi.
+Possibili soluzioni disponibili sul [Github del corso](https://github.com/Informatica-per-le-biotecnologie-UniPI/web26/tree/teaching/programmazione/esercitazioni).
+
 
 ---
 
