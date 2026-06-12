@@ -8,14 +8,14 @@ permalink: /esame/
 	$(document).ready(function(){ $(".menu .item").tab(); });
 </script>
 
-L'esame si compone di due moduli, uno di algoritmica e uno di programmazione. I due possono essere sostenuti in appelli separati, ma all'interno di uno stesso anno accademico. Il modulo di algoritmica prevede un compito scritto, quello di programmazione un progetto da fare in gruppi da 2-3 studenti, seguito da discussione orale.
+L'esame si compone di due moduli, uno di algoritmica e uno di programmazione. I due possono essere sostenuti in appelli separati, ma all'interno di uno stesso anno accademico. Il modulo di algoritmica prevede un compito scritto, quello di programmazione un progetto da fare in gruppi da 2-3 studenti, seguito da discussione orale (tenuta solo se il progetto risulta sufficiente).
 
 
 ## FAQ
 
 ### Voti
 - **Dove vengono pubblicati i voti?** In [questo sheet](https://docs.google.com/spreadsheets/d/1sceV5cGmsFAPHo4SDdtfjNyHVMBFmWezQ56HtSMShAU/edit?usp=sharing).
-- **Quando vengono pubblicati i voti?** Per gli scritti di algoritmica, qualche giorno dopo lo scritto. Per i progetti, il giorno prima dell'appello.
+- **Quando vengono pubblicati i voti?** Per gli scritti di algoritmica, qualche giorno dopo lo scritto. Per il progetto, gli studenti con voto insufficiente sono avvisati via mail entro 3 giorni prima dell'appello: chi ha consegnato il progetto e non ricevuto mail, ha avuto un progetto sufficiente.
 - **Come viene calcolato il voto?** Media aritmetica dei voti su due moduli. Entrambi devono essere sufficienti.
 
 ### Moduli
@@ -29,9 +29,10 @@ L'esame si compone di due moduli, uno di algoritmica e uno di programmazione. I 
 
 ### Progetto
 - **Dove trovo la consegna per il progetto?** Qui sotto, pubblicato a dicembre (data TBD).
-- **Quando va consegnato il progetto?** Entro 7 giorni dall'appello in cui si desidera dare l'orale. Progetti consegnati oltre non vengono considerati.
+- **Quando va consegnato il progetto?** Entro 7 giorni dall'appello in cui si desidera dare l'orale. Progetti consegnati oltre **non** vengono considerati.
 - **Devo iscrivermi all'appello per consegnare il progetto?** Si. In ogni caso, **indicare nelle note d'iscrizione  che modulo si intende dare**. Per gli appelli straordinari, indicare anche su che programma viene dato il corso.
-- **Per l'orale devo portare il computer?** Si consiglia di portare il proprio. In caso non si possa, è disponibile un laptop.
+- **Per l'orale devo portare il computer?** No.
+- **Dove si svolge l'orale?** Studio del docente (presso il Dipartimento di Informatica).
 - **Come carico il progetto su Github?** Crea un account, e segui le [istruzioni online per creare un repository privato](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository). Dalla pagina del repository seleziona `Upload` (a volte indicato con il tasto `+`) e seleziona i file da caricare.
 - **Come invito un collaboratore?** Segui la [documentazione online](https://docs.github.com/articles/inviting-collaborators-to-a-personal-repository).
 
@@ -52,7 +53,7 @@ L'esame si compone di due moduli, uno di algoritmica e uno di programmazione. I 
 In gruppi di 2-3 persone, gli studenti devono decidere come modellare i concetti richiesti, definendo classi, interfacce, estensioni, campi, e metodi, operando scelte giustificate. Il progetto **deve** includere:
 
 1. Una documentazione
-    1. Generale: un `README.md` che indica la struttura del progetto, e.g., che modulo svolge quali funzioni, quali sono le funzioni che offrono quali feature, ecc. Si includa anche una piccola sezione `Quickstart` in cui si dettaglia come eseguire gli esempi di utilizzo richiesti dal testo. Trovi esempi di `README.md` [qui](https://github.com/Informatica-per-le-biotecnologie-UniPI/postings/blob/master/README.md) e [qui](https://github.com/Informatica-per-le-biotecnologie-UniPI/traits/blob/feb7/README.md). Clicca su `Raw` per vedere il codice.
+    1. Generale: un `README.md` che indica la struttura del progetto, e.g., che modulo svolge quali funzioni, quali sono le funzioni che offrono quali feature, ecc. Si includa anche una piccola sezione `Quickstart` in cui si dettaglia come eseguire gli esempi di utilizzo richiesti dal testo. Trovi esempi di `README.md` [qui](https://github.com/Informatica-per-le-biotecnologie-UniPI/postings/blob/master/README.md) e [qui](https://github.com/Informatica-per-le-biotecnologie-UniPI/traits/blob/feb7/README.md). Clicca su `Raw` per vedere il codice. Indicare anche i membri del gruppo.
     2. In codice: documentazione per funzioni e classi, i.e., commenti e tipizzazione funzioni
 2. Uno o più file che implementano la consegna.
 
