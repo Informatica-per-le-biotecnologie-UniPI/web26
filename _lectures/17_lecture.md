@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-11-23T10:30:00
-title: Moduli
+title: "Moduli e assegnamento progetti"
 lecture_type: Lezione
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_calendar: false

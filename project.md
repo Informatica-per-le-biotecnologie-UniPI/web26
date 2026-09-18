@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Esame
+title: "Esame e FAQ"
 permalink: /esame/
 ---
 
@@ -8,66 +8,43 @@ permalink: /esame/
 	$(document).ready(function(){ $(".menu .item").tab(); });
 </script>
 
-L'esame si compone di due moduli, uno di algoritmica e uno di programmazione. I due possono essere sostenuti in appelli separati, ma all'interno di uno stesso anno accademico. Il modulo di algoritmica prevede un compito scritto, quello di programmazione un progetto da fare in gruppi da 2-3 studenti, seguito da discussione orale (tenuta solo se il progetto risulta sufficiente).
-
-
-## FAQ
-
-
-### Moduli
-- **Posso dare i due moduli separatamente?** Si, ma entro lo stesso anno accademico. Se uno studente non sostiene con profitto entrambi i moduli tra l'appello di ottobre (compreso) e l'appello di settembre dell'anno successivo (compreso), dovrà sostenere nuovamente entrambi i moduli.
-- **Per dare un modulo devo aver passato l'altro?** No, i due moduli sono indipendenti. Si consiglia comunque di studiare prima il modulo di algoritmica.
-
-### Esame
-- **Dove vengono pubblicati i voti?** Algoritmica: via mail. Programmazione: il progetto ammette all'orale. In [questo sheet](https://docs.google.com/spreadsheets/d/1TNTIL8RHs5F4OkdDc_J_DebXXi4lBhOZ2vFAn-riXto/edit?usp=sharing) verranno inseriti gli ammessi, con una notifica mail ai referenti dei gruppi. In caso di tanti gruppi, sono possibili partizionamenti mattina/pomeriggio e in diversi giorni.
-- **Quando vengono pubblicati i voti?** Per gli scritti di algoritmica, qualche giorno dopo lo scritto. Per il progetto, entro 3 giorni prima dell'appello: chi ha consegnato il progetto e non ha ricevuto mail per allora, ha avuto un progetto sufficiente.
-- **Come viene calcolato il voto?** Media aritmetica dei voti su due moduli. Entrambi devono essere sufficienti.
-- **Dove si svolgono gli esami?** Algoritmica: Dipartimento di Informatica. Programamzione: studio del docente (presso il Dipartimento di Informatica).
-- **Dove trovo il Dipartimento di Informatica?** [Edificio C del Polo Fibonacci](https://maps.app.goo.gl/7KCceYCRTwNGPDMq9), secondo piano.
-- **Dove trovo la Sala Riunioni Est/Ovest?** Chiedi nella portineria del dipartimento, o consulta [la mappa online](https://di.unipi.it/mappa-dipartimento/).
-
-  
-### Progetto (Programmazione)
-Il progetto va svolto in gruppi. Appena formato, indica [qui](https://docs.google.com/spreadsheets/d/1IfKt6NAG3ULoA9gPxBWgUFff2IMi86HDTlrlKxugz0k/edit?usp=sharing) la mail di un referente per il gruppo, e i suoi membri.
-
-- **Dove trovo la consegna per il progetto?** Qui sotto, pubblicato durante il corso (data TBA).
-- **Quando va consegnato il progetto?** Entro 7 giorni dall'appello in cui si desidera dare l'orale. Progetti consegnati oltre vengono considerati per l'appello successivo.
-- **Devo iscrivermi all'appello per consegnare il progetto?** Si. In ogni caso, **indicare nelle note d'iscrizione il/i modulo/i si intende/intendono dare**. Per gli appelli straordinari, indicare anche su che programma viene dato il corso.
-- **Come carico il progetto su Github?** Crea un account, e segui le [istruzioni online per creare un repository privato](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository). Dalla pagina del repository seleziona `Upload` (a volte indicato con il tasto `+`) e seleziona i file da caricare.
-- **Come invito un collaboratore?** Segui la [documentazione online](https://docs.github.com/articles/inviting-collaborators-to-a-personal-repository).
-
-
-### Lezioni
-- **Sono previsti laboratori aggiuntivi?** No, le lezioni seguono il calendario indicato. Studenti interessati a chiarimenti o approfondimenti possono contattare i docenti e usufruire del ricevimento (riferimenti su Unimap).
-- **Devo portare il computer a lezione?** Solo per il modulo di programmazione.
-
-### Materiale
-- **Dove trovo i programmi da installare?** Pagina `Materiali`. Si consiglia di averli installati per la prima lezione del modulo di programmazione.
-- **Dove trovo il gruppo Teams?** Disponibile a inizio corso.
+L'esame si compone di due moduli, uno di algoritmica e uno di programmazione. I due possono essere sostenuti in appelli separati, ma all'interno di uno stesso anno accademico. Il modulo di algoritmica prevede un compito scritto, quello di programmazione un progetto da fare in gruppi, seguito da discussione orale (tenuta solo se il progetto risulta sufficiente).
 
 ---
 
-# Progetto
+# Algoritmica
 
-## Linee guida
+Esame scritto. Sono disponibili esami degli anni passati per esercitarsi:
 
+- [2023](https://github.com/Informatica-per-le-biotecnologie-UniPI/web26/blob/main/static_files/lectures/algoritmica/verifica%202023.pdf)
+- [2022](https://github.com/Informatica-per-le-biotecnologie-UniPI/web26/blob/main/static_files/lectures/algoritmica/verifica%202022.pdf)
 
-In gruppi di 3-4 persone, gli studenti devono decidere come modellare i concetti richiesti, definendo classi, interfacce, estensioni, campi, e metodi, operando scelte giustificate. Il progetto **deve** includere:
+---
+
+# Programmazione
+
+In piccoli gruppi, gli studenti devono decidere come modellare i concetti richiesti, definendo classi, interfacce, estensioni, campi, e metodi, operando scelte giustificate. Il progetto **deve** includere:
 
 1. Una documentazione
-    1. Generale: un `README.md` che indica la struttura del progetto, e.g., che modulo svolge quali funzioni, quali sono le funzioni che offrono quali feature, ecc. Si includa anche una piccola sezione `Quickstart` in cui si dettaglia come eseguire gli esempi di utilizzo richiesti dal testo. Trovi esempi di `README.md` [qui](https://github.com/Informatica-per-le-biotecnologie-UniPI/postings/blob/master/README.md) e [qui](https://github.com/Informatica-per-le-biotecnologie-UniPI/traits/blob/feb7/README.md). Clicca su `Raw` per vedere il codice.
+    1. Generale: un `README.md` che indica brevemente l'obbiettivo del progetto, e la suddivisione in file/funzioni. Includi anche una piccola sezione `Quickstart` in cui mostri le funzioni richieste dal testo. Trovi esempi di `README.md` [qui](https://github.com/Informatica-per-le-biotecnologie-UniPI/postings/blob/master/README.md) e [qui](https://github.com/Informatica-per-le-biotecnologie-UniPI/traits/blob/feb7/README.md). Clicca su `Raw` per vedere il codice.
     2. In codice: documentazione per funzioni e classi, i.e., commenti e tipizzazione funzioni
 2. Uno o più file che implementano la consegna.
 
-Progetti che non seguono la struttura sopra indicata sono considerati insufficienti.
+Progetti che **non seguono la struttura** sopra indicata sono considerati **insufficienti**.
+
+## Gruppi
+I gruppi sono formati da 3-4 studenti, e vanno indicati in [questo sheet](https://docs.google.com/spreadsheets/d/1IfKt6NAG3ULoA9gPxBWgUFff2IMi86HDTlrlKxugz0k/edit?usp=sharing).
+Indica anche un nome a tema bio/biotech per il tuo gruppo. Il nome più divertente sarà premiato a fine corso.
+A ogni gruppo sarà assegnato un progetto durante il corso, pertanto cerca di formare il gruppo appena possibile.
+Indica la mail del membro referente: utilizza una mail istituzionale (@studenti.unipi.it).
 
 
-### Consegna
+## Consegna
 
-Per la consegna, creare un repository privato su [Github](https://github.com/), e invitare user `msetzu` come collaboratore.
+Per la consegna del progetto, crea un repository privato su [Github](https://github.com/) con il nome del gruppo, e invita user `msetzu` come collaboratore. Il progetto non ha deadline.
 
 
-### Valutazione
+## Valutazione progetto
 
 La valutazione del progetto include, in ordine di importanza:
 
@@ -77,7 +54,14 @@ La valutazione del progetto include, in ordine di importanza:
 4. Completezza del codice: il codice tratta anche i casi limite, e.g., un trascrittore di DNA che lancia eccezione quando il DNA dato ha lunghezza zero
 
 
-# Tips & Tricks
+## Orale
+
+Alla discussione orale, terrete una breve presentazione (max. 10 minuti) in cui mostrate i risultati ottenuti nel progetto, e le parti del progetto che ritenete più importanti e/o sono state più difficoltose, e come le avete affrontate. Caricate la vostra presentazione in [questa cartella condivisa](https://drive.google.com/drive/folders/17PQz6VxTxfs8e--6oOqQ9ePg4FZpBlqc?usp=sharing). Si consiglia un formato pdf, pptx, o Google Slides.
+
+Viene inoltre richiesto di programmare: viene messa a disposizione una macchina, e una cheat sheet.
+
+
+## Tips & Tricks
 
 ### Nomenclatura, tipizzazione, e commenti
 - Usa nomi significativi, ed evita quando possibile sigle e variabili a una lettera, e.g., `x`
@@ -120,7 +104,7 @@ Quando sei in dubbio, sfrutta la [cheat sheet](https://informatica-per-le-biotec
 - Documentazione [eccezioni](https://docs.python.org/3/tutorial/errors.html)
 - Documentazione [funzioni predefinite](https://docs.python.org/3/library/functions.html)
 
-## Scrittura codice
+### Scrittura codice
 Quando scrivi codice:
 1. Identifica che categorie di dati ti servono
 2. Identifica che tipo di manipolazioni vuoi farci
@@ -135,12 +119,7 @@ Quando scrivi codice:
 
 L'utilizzo di strumenti di AI per la scrittura di codice o documentazione **non è consentito**.
 
-## Testo
 
-<div class="ui placeholder">
-    <div class="line"></div>
-    <div class="line"></div>
-    <div class="line"></div>
-    <div class="line"></div>
-    <div class="line"></div>
-</div>
+# Testo progetto
+
+TBA

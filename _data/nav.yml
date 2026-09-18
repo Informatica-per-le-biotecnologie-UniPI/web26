@@ -9,11 +9,15 @@ items:
 
 - url: /esercitazioni/
   name: Esercitazioni
-  icon_class: fas fa-user-graduate
+  icon_class: fas fa-code
 
 - url: /esame/
   name: Esame
   icon_class: fas fa-user-graduate
+
+- url: /faq/
+  name: "FAQ and infos"
+  icon_class: fas fa-circle-info
 
 - url: /materiali/
   name: Materiali

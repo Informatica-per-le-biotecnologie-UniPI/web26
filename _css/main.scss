@@ -1,4 +1,5 @@
 ---
+# Comment
 ---
 
 @charset "utf-8";
@@ -33,8 +34,6 @@ $content-width:    950px;
 $on-palm:          600px;
 $on-laptop:        950px;
 
-
-
 // Using media queries with like this:
 // @include media-query($on-palm) {
 //     .wrapper {
@@ -50,13 +49,6 @@ $on-laptop:        950px;
 
 
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "header",
-	    "mobile-header",
-        "base",
-        "layout",
-        "syntax-highlighting",
-	    "fancy-image"
-;
+/*// Import partials from `sass_dir` (defaults to `_sass`)*/
+@import "header", "mobile-header", "base", "layout", "syntax-highlighting", "fancy-image";
 
