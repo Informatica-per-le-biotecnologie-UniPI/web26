@@ -1,12 +1,12 @@
 ---
 type: lecture
-date: 2026-11-18T10:30:00
-title: Classi
-lecture_type: Lezione
+date: 2026-11-16T10:30:00
+title: Funzioni
+lecture_type: Esercitazione
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_calendar: false
 links:
-- url: https://colab.research.google.com/github/Informatica-per-le-biotecnologie-UniPI/web26/blob/teaching/programmazione/classes.ipynb
+- url: https://colab.research.google.com/github/Informatica-per-le-biotecnologie-UniPI/web26/blob/teaching/programmazione/functions.ipynb
   name: notebook
 hide_from_announcments: true
 ---

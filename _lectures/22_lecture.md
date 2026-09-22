@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2026-12-09T10:30:00
-title: Esercitazione open lab
+date: 2026-12-07T10:30:00
+title: (Opzionale) Esercitazione open lab
 lecture_type: Lezione
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_calendar: false

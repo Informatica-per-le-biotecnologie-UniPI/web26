@@ -9,6 +9,7 @@ permalink: /faq/
 - **Devo portare il computer a lezione?** Solo per il modulo di programmazione.
 - **Dove trovo i programmi da installare?** Pagina `Materiali`.
 - **Dove trovo il gruppo Teams?** Disponibile a inizio corso.
+- **La frequenza è obbligatoria?** No.
 
 
 ## Ricevimenti
