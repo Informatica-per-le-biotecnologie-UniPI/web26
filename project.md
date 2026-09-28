@@ -33,9 +33,9 @@ In piccoli gruppi, gli studenti devono decidere come modellare i concetti richie
 Progetti che **non seguono la struttura** sopra indicata sono considerati **insufficienti**.
 
 ## Gruppi
-I gruppi sono formati da 3-4 studenti, e vanno indicati in [questo sheet](https://docs.google.com/spreadsheets/d/1IfKt6NAG3ULoA9gPxBWgUFff2IMi86HDTlrlKxugz0k/edit?usp=sharing).
+I gruppi sono formati da 3-4 studenti, e **vanno indicati** in [questo sheet](https://docs.google.com/spreadsheets/d/1IfKt6NAG3ULoA9gPxBWgUFff2IMi86HDTlrlKxugz0k/edit?usp=sharing).
 Indica anche un nome a tema bio/biotech per il tuo gruppo. Il nome più divertente sarà premiato a fine corso.
-A ogni gruppo sarà assegnato un progetto durante il corso, pertanto cerca di formare il gruppo appena possibile.
+A ogni gruppo sarà assegnato un progetto durante il corso, pertanto cerca di formare il gruppo appena possibile, e comunque entro la data di consegna progetti (indicativamente metà/fine novembre) .
 Indica la mail del membro referente: utilizza una mail istituzionale (@studenti.unipi.it).
 
 
