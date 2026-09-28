@@ -41,3 +41,7 @@ permalink: /faq/
 - **Dove si svolge l'orale?** Studio del docente (presso il Dipartimento di Informatica), a meno di diverse indicazioni sulle note d'esame.
 - **Come carico il progetto su Github?** Crea un account, e segui le [istruzioni online per creare un repository privato](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository). Dalla pagina del repository seleziona `Upload` (a volte indicato con il tasto `+`) e seleziona i file da caricare.
 - **Come invito un collaboratore su Github?** Segui la [documentazione online](https://docs.github.com/articles/inviting-collaborators-to-a-personal-repository).
+
+## Ordinamenti passati, sessioni straordinarie
+- **Ho seguito il corso gli anni passati, e voglio dare l'esame secondo il mio ordinamento. Cosa cambia?** Le modalità d'esame sono quelle dell'anno corrente (vedi [qui]({{ site.baseurl}}/esame)).
+Per gli appelli pre-assegnamento progetto di programmazione (ottobre, novembre, e dicembre), consegna uno dei progetti dell'anno 2025 (lista [qui](https://informatica-per-le-biotecnologie-unipi.github.io/web25/esame/#progetti)).

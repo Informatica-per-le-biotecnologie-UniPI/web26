@@ -22,6 +22,16 @@ Dispense disponibili di seguito:
     - Settings > General > Inline completion
 - [Google Colab](https://colab.research.google.com/).
 
+
+Per verificare che la vostra installazione di Pycharm funzioni correttamente:
+1. Avvia Pycharm
+2. Crea un nuovo progetto: ti verrà chiesta una versione di Python da utilizzare, e una cartella in cui salvare il progetto. Usa la versione indicata di default per la prima, e una cartella a tuo piacimento per la seconda
+3. Crea un file `main.py`, e scrivi `print("Hello, {name}")`, sostituento il tuo nome a `{name}`
+4. Esegui il programma: premi `Alt+Shift+F10` o il pulsante Run (icona Play in verde in alto a destra). Si dovrebbe aprire una finestra `Run` in basso alla schermata, in cui troverai scritto `Hello, {name}`.
+
+Trovi una guida alternativa sul [sito ufficiale di Pycharm](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html#summary).
+
+
 Nota: per modificare i notebook di esempio sul modulo di algoritmica avrai bisogno di farne una copia. Dal menu file seleziona la voce corrispondente.
 
 ## Testo
