@@ -15,7 +15,7 @@
 <div class="announcement-box" style="margin-top:30px">
 <h2>Annunci</h2>
 <ul>
-    {% for n in all_events_sorted limit:7 %}
+    {% for n in all_events_sorted limit:5 %}
     <li class="no-p-margin">
         {% if n.hide_from_announcments %}
         {% else %}
@@ -26,7 +26,7 @@
                 {% elsif n.type == 'assignment' %}
                     New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
                 {% else%}
-                    {{ n.description }}
+                    [{{ n.date | date: "%Y-%m-%d" }}] - {{ n.description }}
                 {% endif %}
             {% else %}
             {{ n.content }}

@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2026-10-14T10:30:00
+date: 2026-10-19T10:30:00
 title: Alberi
-lecture_type: Esercitazione
+lecture_type: Lezione
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_calendar: false
 links:

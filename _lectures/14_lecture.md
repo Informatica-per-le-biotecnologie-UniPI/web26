@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2026-11-09T10:30:00
+date: 2026-11-11T10:30:00
 title: Esercitazione
-lecture_type: Lezione
+lecture_type: Esercitazione
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_calendar: false
 links:

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-10-28T10:30:00
+date: 2026-11-02T10:30:00
 title: Valori ed espressioni
 lecture_type: Lezione
 thumbnail: /static_files/presentations/lec.jpg

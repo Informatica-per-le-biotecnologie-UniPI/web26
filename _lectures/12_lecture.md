@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-11-02T10:30:00
+date: 2026-11-04T10:30:00
 title: Costrutti
 lecture_type: Lezione
 thumbnail: /static_files/presentations/lec.jpg

@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2026-11-16T10:30:00
+date: 2026-11-18T10:30:00
 title: Funzioni
-lecture_type: Esercitazione
+lecture_type: Lezione
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_calendar: false
 links:

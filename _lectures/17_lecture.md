@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-11-18T10:30:00
+date: 2026-11-23T10:30:00
 title: Classi
 lecture_type: Lezione
 thumbnail: /static_files/presentations/lec.jpg
