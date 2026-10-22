@@ -16,6 +16,8 @@ L'esame si compone di due moduli, uno di algoritmica e uno di programmazione. I 
 
 Esame scritto. Sono disponibili esami degli anni passati per esercitarsi:
 
+- [2025](https://github.com/Informatica-per-le-biotecnologie-UniPI/web26/blob/teaching/algoritmica/2025.pdf)
+- [2024](https://github.com/Informatica-per-le-biotecnologie-UniPI/web26/blob/teaching/algoritmica/2024.pdf)
 - [2023](https://github.com/Informatica-per-le-biotecnologie-UniPI/web26/blob/main/static_files/lectures/algoritmica/verifica%202023.pdf)
 - [2022](https://github.com/Informatica-per-le-biotecnologie-UniPI/web26/blob/main/static_files/lectures/algoritmica/verifica%202022.pdf)
 
