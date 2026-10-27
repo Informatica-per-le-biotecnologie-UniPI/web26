@@ -36,6 +36,7 @@ Nota: per modificare i notebook di esempio sul modulo di algoritmica avrai bisog
 
 ## Testo
 
+- [Python book](https://pythonbook.io/python/)
 - [Pensare in Python, Allen Downey.](https://web.unica.it/static/resources/cms/documents/thinkpython_italian.pdf)
 
 ## Esercizi online
